@@ -1,0 +1,11 @@
+﻿  Source.cpp
+C:\Users\jmjm\source\repos\sdl2sdl2\sdl2sdl2\Source.cpp(245,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\jmjm\source\repos\sdl2sdl2\sdl2sdl2\Source.cpp(248,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\jmjm\source\repos\sdl2sdl2\sdl2sdl2\Source.cpp(251,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\jmjm\source\repos\sdl2sdl2\sdl2sdl2\Source.cpp(254,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\jmjm\source\repos\sdl2sdl2\sdl2sdl2\Source.cpp(257,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\jmjm\source\repos\sdl2sdl2\sdl2sdl2\Source.cpp(260,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\jmjm\source\repos\sdl2sdl2\sdl2sdl2\Source.cpp(263,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\jmjm\source\repos\sdl2sdl2\sdl2sdl2\Source.cpp(276,82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jmjm\source\repos\sdl2sdl2\sdl2sdl2\Source.cpp(476,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  sdl2sdl2.vcxproj -> C:\Users\jmjm\source\repos\sdl2sdl2\Debug\sdl2sdl2.exe
